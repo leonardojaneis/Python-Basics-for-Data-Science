@@ -5,9 +5,13 @@ Repository for Python fundamentals, including data structures and data analysis 
 Introduce the Python programming language and provide an overview of how to work with data using this language.
 
 ✅ 01 - Python Basics 
-✅ 02 - Python Data Structures 
+
+✅ 02 - Python Data Structures
+
 ✅ 03 - Python Programming Fundamentals 
+
 ✅ 04 - Working with Data in Python 
+
 ✅ 05 - APIs and Data Collection
 
 ## 📁 Repository Structure 
@@ -28,5 +32,5 @@ To execute the files, you will need:
 - cd Python-Basics-for-Data-Science
 ### 3. Run the Python script:
 - python name_of_file.py
-
-  📝 This repository is collaborative! Feel free to contribute improvements.
+***
+### 📝 This repository is collaborative! Feel free to contribute improvements.
