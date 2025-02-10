@@ -1,5 +1,5 @@
 # 🐍 Python Basics for Data Science  
-Repository for Python fundamentals, including data structures and data analysis from edx course
+Repository for Python fundamentals, including data structures and data analysis from edX course
 
 ## 📌 About the repository
 Introduce the Python programming language and provide an overview of how to work with data using this language.
