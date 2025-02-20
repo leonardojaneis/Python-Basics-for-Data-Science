@@ -75,5 +75,3 @@ for row in table.find_all('tr'):
     print(f"{color_name}--->{color_code}")
 
 
-# Conversao de banco relacional para o mongodb na lanwork
-# Outro exemplo com coingecko
